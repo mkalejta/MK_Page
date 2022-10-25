@@ -43,7 +43,7 @@ JakaśTamFunkcja()
 
 Oto fragment kodu `print("Hello World!")` zagnieżdżonego w tekście:
 
-![Mój obrazek](MK_Page/Github_Repo.png)
+![Mój obrazek](Github_Repo.png)
 
 
 
